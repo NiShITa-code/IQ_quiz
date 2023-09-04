@@ -23,7 +23,7 @@ To run the IQ Quiz App locally on your machine, follow these steps:
 3. Install dependencies
 4. Start the app
 
-##Contributing
+## Contributing
 We welcome contributions to improve the IQ Quiz App. To contribute, please follow these steps:
 Fork the repository.
 Create a new branch for your feature: git checkout -b feature-name
