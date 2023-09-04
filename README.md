@@ -24,10 +24,10 @@ To run the IQ Quiz App locally on your machine, follow these steps:
 4. Start the app
 
 ## Contributing
-We welcome contributions to improve the IQ Quiz App. To contribute, please follow these steps:
-Fork the repository.
-Create a new branch for your feature: git checkout -b feature-name
-Make your changes and commit them: git commit -m 'Add new feature'
-Push to your branch: git push origin feature-name
-Create a pull request.
-For bug fixes or feature requests, please open an issue to discuss the changes you'd like to make.
+- To contribute, please follow these steps:
+- Fork the repository.
+- Create a new branch for your feature: git checkout -b feature-name
+- Make your changes and commit them: git commit -m 'Add new feature'
+- Push to your branch: git push origin feature-name
+- Create a pull request.
+- For bug fixes or feature requests, please open an issue to discuss the changes you'd like to make.
